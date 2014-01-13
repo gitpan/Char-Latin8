@@ -1,14 +1,12 @@
 NAME
 
-       Char::Latin8 - Source code filter for Latin-8 script (Imitation JPerl)
+       Latin8 - Source code filter for Latin-8 script (Imitation JPerl)
 
 SYNOPSIS
 
     In your script:
 
-      use Char::Latin8; # CPAN formal style
-         or
-      use Latin8; # casual style
+      use Latin8;
 
     At command prompt:
 
